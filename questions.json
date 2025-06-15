@@ -1,0 +1,43 @@
+[
+    {
+        "question": "What is the full form of DOM in Web Development?",
+        "options": ["Document Orientation Model", "Data output model", "Document Object Model", "Desktop Oriented Module"],
+        "answer": 3
+    },
+
+    {
+        "question": "Which tag is used to link an external css file to html?",
+        "options": ["<link>", "<style>","<css>", "<script>"],
+        "answer": 2
+    },
+ 
+    {
+        "question": "In react, what does JSX stand for?",
+        "options": ["JavaScript XML", "Java Syntax Extension", "JSON XML", "JavaScript Extension"],
+        "answer": 2
+    },
+
+    {
+        "question": "Which method is used to insert an element at the end of a Python list?",
+        "options": ["append()", "insert()", "add()", "extend()"],
+        "answer": 1
+    },
+
+    {
+        "question": "Which of the following languages is not used in DSA?",
+        "options": ["Javascript", "Ruby", "Swift", "None of the Above"],
+        "answer": 4
+    },
+
+    {
+        "question": "Which keyword is used to define a function in Python?",
+        "options": ["define", "function", "def", "fun"],
+        "answer": 3
+    },
+
+    {
+        "question": "What is the output of: print(2 ** 3 ** 1) in Python?",
+        "options": ["64", "8", "6", "16"],
+        "answer": 2
+    }
+]
